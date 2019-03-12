@@ -1,0 +1,54 @@
+[
+  {
+    "name": "عقود البيع",
+    "children": [
+      {
+        "label": "بيع شقة",
+        "link": "/contracts/apartment-sale"
+      },
+      {
+        "label": "بيع مركبة",
+        "link": "/contracts/vehicle-sale"
+      },
+      {
+        "label": "بيع متجر",
+        "link": "/contracts/market-sale"
+      }
+    ]
+  },
+  {
+    "name": "عقود الأجار",
+    "children": [
+      {
+        "label": "اجار شقة",
+        "link": "/contracts/apartment-rent"
+      },
+      {
+        "label": "اجار سيارة",
+        "link": "/contracts/vehicle-rent"
+      }
+    ]
+  },
+  {
+    "name": "عقود الاستثمار",
+    "children": [
+      {
+        "label": "استثمار متجر",
+        "link": "/contracts/market-investment"
+      },
+      {
+        "label": "استثمار مركبة",
+        "link": "/contracts/vehicle-investment"
+      }
+    ]
+  },
+  {
+    "name": "عقود الشركات",
+    "children": [
+      {
+        "label": "شركة المحاصة",
+        "link": "/contracts/company-share"
+      }
+    ]
+  }
+]
