@@ -13,6 +13,50 @@
       {
         "label": "بيع متجر",
         "link": "/contracts/market-sale"
+      },
+      {
+        "label": "الشالية",
+        "link": "/contracts/mChalet-sale"
+      },
+      {
+        "label": "القبو",
+        "link": "/contracts/basement-sale"
+      },
+      {
+        "label": "المكتب",
+        "link": "/contracts/office-sale"
+      },
+      {
+        "label": "الدار العربية",
+        "link": "/contracts/arabicHouse-sale"
+      },
+      {
+        "label": "الدكان",
+        "link": "/contracts/miniShop-sale"
+      },
+      {
+        "label": "المستودع",
+        "link": "/contracts/warehouse-sale"
+      },
+      {
+        "label": "السطح",
+        "link": "/contracts/roof-sale"
+      },
+      {
+        "label": "أرض معدة للبناء",
+        "link": "/contracts/landForConstruction-sale"
+      },
+      {
+        "label": "أرض زراعية",
+        "link": "/contracts/landForFarm-sale"
+      },
+      {
+        "label": "الفيلا",
+        "link": "/contracts/villa-sale"
+      },
+      {
+        "label": "المزرعة",
+        "link": "/contracts/farm-sale"
       }
     ]
   },
@@ -50,5 +94,18 @@
         "link": "/contracts/company-share"
       }
     ]
-  }
+  },
+    {
+    "name": "شركات",
+    "children": [{
+      "label": "محاصة",
+      "link": "/contracts/common-corporation"
+    }],
+  },
+     {
+      "name": "عمل",
+      "children": [{
+        "label": "فردي",
+        "link": "/contracts/person-work"
+      }]}
 ]
