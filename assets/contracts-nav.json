@@ -15,47 +15,47 @@
         "link": "/contracts/market-sale"
       },
       {
-        "label": "الشالية",
-        "link": "/contracts/mChalet-sale"
+        "label": "بيع شالية",
+        "link": "/contracts/chalet-sale"
       },
       {
-        "label": "القبو",
+        "label": "بيع قبو",
         "link": "/contracts/basement-sale"
       },
       {
-        "label": "المكتب",
+        "label": "بيع مكتب",
         "link": "/contracts/office-sale"
       },
       {
-        "label": "الدار العربية",
-        "link": "/contracts/arabicHouse-sale"
+        "label": "بيع دار عربية",
+        "link": "/contracts/arabic-house-sale"
       },
       {
-        "label": "الدكان",
-        "link": "/contracts/miniShop-sale"
+        "label": "بيع دكان",
+        "link": "/contracts/mini-shop-sale"
       },
       {
-        "label": "المستودع",
+        "label": "بيع مستودع",
         "link": "/contracts/warehouse-sale"
       },
       {
-        "label": "السطح",
+        "label": "بيع سطح",
         "link": "/contracts/roof-sale"
       },
       {
-        "label": "أرض معدة للبناء",
-        "link": "/contracts/landForConstruction-sale"
+        "label": "بيع أرض معدة للبناء",
+        "link": "/contracts/land-for-construction-sale"
       },
       {
-        "label": "أرض زراعية",
-        "link": "/contracts/landForFarm-sale"
+        "label": "بيع أرض زراعية",
+        "link": "/contracts/land-for-farm-sale"
       },
       {
-        "label": "الفيلا",
+        "label": "بيع فيلا",
         "link": "/contracts/villa-sale"
       },
       {
-        "label": "المزرعة",
+        "label": "بيع مزرعة",
         "link": "/contracts/farm-sale"
       }
     ]
@@ -87,17 +87,21 @@
     ]
   },
   {
-    "name": "شركات",
-    "children": [{
-      "label": "محاصة",
-      "link": "/contracts/common-corporation"
-    }]
-  },{
-      "name": "عمل",
-      "children": [
-        {
-        "label": "فردي",
+    "name": "عقود الشركات",
+    "children": [
+      {
+        "label": "شركة محاصة",
+        "link": "/contracts/common-corporation"
+      }
+    ]
+  },
+  {
+    "name": "عقود العمل",
+    "children": [
+      {
+        "label": "عمل فردي",
         "link": "/contracts/person-work"
-      }]
+      }
+    ]
   }
 ]
